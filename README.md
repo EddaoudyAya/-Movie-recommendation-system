@@ -168,10 +168,9 @@ The project includes both the **backend logic** (Flask, machine learning models)
 ---
 
 ## Contributors
-
+* [Eddaoudy Aya](https://github.com/EddaoudyAya)
 * [Bnyiche Mouna](https://github.com/itsmawna)
 * [Ahnin Chaimaa](https://github.com/chaimaa-101)
-* [Eddaoudy Aya](https://github.com/EddaoudyAya)
 * [El Alami Nihad](https://github.com/nihadel7)
 
 ---
